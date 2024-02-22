@@ -2,6 +2,7 @@
 * There are endless planes and portals sometimes blink in and out into the world but it's not a big deal
 * wizards with pointy hats
 * through one of those planes a bunch of cool ogres came through and now are basically refugees
+* 
 ---
 ### Play
 * There are [x] domains:
